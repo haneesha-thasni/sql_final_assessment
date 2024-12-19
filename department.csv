@@ -1,0 +1,7 @@
+dep_id,department_name,location
+1,HR,Headquarters
+2,Admin,"Central Office"
+3,IT,"Tech Park"
+4,Finance,"Financial District"
+5,Sales,"Sales Complex"
+6,Marketing,"Marketing Hub"
